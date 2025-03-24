@@ -6,16 +6,23 @@ Topics of the day:
 * Création de **comps**
 * Création de **grille**
 * Introduction au **prototype**
+* Variables
 
+## Steps
 
-## Steps: 
+1. git clone : <https://github.com/b3no1t/portfolio>
 
-1. créer l'archi des dossiers sur votre espace de travail, si elle n'existe pas.
+2. dans le **dossier design**, ouvrir le fichier
 
-*  creer le dossier analyse (des donnees)
-* creer le dossier web
-* creer le dossier design
+3. **Plugins**: Unsplash, Content Reel, Font Awesome, bootstrap
 
-1. ouvrir le fichier figma **"Portfolio"**
-2. prendre connaissance du layout et des composants faits et peut etre à faire.
-3. Faire un listing des composants présents dans le d
+3. **prendre connaissance** du layout et des composants.
+
+4. Investiquer sur le layout a fin de créer **eventuellement de nouveaux composants.**
+
+5. Intro aux grille, Exemple sur la vue **smartphone**.
+
+6. Pratique des **grilles**
+
+---
+Practice and Enjoy !
