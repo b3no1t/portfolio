@@ -17,6 +17,7 @@ Topics of the day:
 3. **Plugins**: Unsplash, Content Reel, Font Awesome, bootstrap
 
 3. **prendre connaissance** du layout et des composants.
+   source for card inspiration <https://dribbble.com/shots/24876662-Card-Scrolling-Micro-Interaction>
 
 4. Investiquer sur le layout a fin de créer **eventuellement de nouveaux composants.**
 
